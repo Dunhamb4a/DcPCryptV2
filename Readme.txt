@@ -1,12 +1,12 @@
      =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-     =       DCPcrypt Cryptographic Component Library v2.1     =
+     =       DCPcrypt Cryptographic Component Library v2.2     =
      =                                                         =
      =          Copyright (c) 1999-2009 David Barton           =
      =                                                         =
      =         Further Changes by Henri Gourvest,              =
      =             Warren Postma, Dunhamb4a and others         =
      =           to support Delphi XE and up.                  =
-
+     =                                                         =
      =          Dunhamb4a@gmail.com                            =
      =                                                         =
      =   	warren.postma@gmail.com                        =
@@ -60,6 +60,11 @@ http://www.cityinthesky.co.uk/ would be great!
 
 
 What's New:
+
+UPDATE AUGUST 2017:
+ Updated and tested with Delphi XE10.2
+ Added: Event progressions
+ Added: New Demos
 
 Changes since DCPcrypt v2 Beta 2 include
 
