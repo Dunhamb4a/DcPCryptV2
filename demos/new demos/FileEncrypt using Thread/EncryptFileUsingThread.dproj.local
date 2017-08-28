@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/08/08 14:59:17.000.890,=C:\Users\Squall\Desktop\demos\FileEncrypt\Unit1.pas</Transaction>
+    <Transaction>2015/08/08 14:59:33.000.247,C:\Users\Squall\Desktop\demos\FileEncrypt\UnitUtilitaires.pas=C:\Users\Squall\Desktop\demos\FileEncrypt\Unit1.pas</Transaction>
+    <Transaction>2015/08/10 16:49:40.000.939,C:\Users\Squall\Desktop\demos\FileEncrypt\FileEncrypt.dproj=C:\Users\Squall\Desktop\demos\FileEncrypt\KryptoFiler.dproj</Transaction>
+    <Transaction>2015/09/05 19:03:46.000.064,C:\Users\Squall\Desktop\demos - warren\FileEncrypt using Thread\KryptoFiler.dproj=C:\Users\Squall\Desktop\demos - warren\FileEncrypt using Thread\EncryptFileUsingThread.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

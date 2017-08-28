@@ -1,0 +1,9 @@
+glob:*.dcu
+glob:__history\*
+glob:*.local
+glob:*.dsk
+glob:*.identcache
+glob:*.~*
+glob:*.2007
+syntax: glob
+*.exe
